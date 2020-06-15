@@ -24,7 +24,9 @@ Birthday | Favourite color | Favourite food | Pineapple on pizza? |
 
 ### A funny story
 *One day me and my friend traveled to South Korea, before leaving back to home she checked how to get to airport,so the shortest way was by metro. Normally by the end of the ride there are always a lot of people cause it's airport, right? Not in our case...Instead of Incheon airport we were in Incheon village...We missed our flight but it's another story...*
-###### Was't fun to spend three days at airport though  :sweat_smile:
+
+TL;DR
+ ###### Was't fun to spend three days at airport though  :sweat_smile:
 
 
 

@@ -28,4 +28,4 @@ Birthday | Favourite color | Favourite food | Pineapple on pizza? |
 
 
 
-<< [Nicole]( https://github.com/NicolSaha/markdown-challenge/blob/master/README.md)  [Ouna]( https://github.com/Ouna-Bilegma/markdown-challenge/blob/master/README.md)  [Raluca](https://github.com/RalucaElisabetaR/markdown-challenge/blob/master/README.md) >>
+<< [Nicole]( https://github.com/NicolSaha/markdown-challenge/blob/master/README.md) | [Ouna]( https://github.com/Ouna-Bilegma/markdown-challenge/blob/master/README.md) | [Raluca](https://github.com/RalucaElisabetaR/markdown-challenge/blob/master/README.md) >>

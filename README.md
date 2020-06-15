@@ -24,4 +24,4 @@ Painting  :art:*
 
 
 
- << [previous] (https://github.com/NicolSaha/markdown-challenge/blob/master/README.md) Ouna Tcybdenova [next](https://github.com/RalucaElisabetaR/markdown-challenge/blob/master/README.md) >>
+<< [Nicole]( https://github.com/NicolSaha/markdown-challenge/blob/master/README.md)  Ouna Tcybdenova [Raluca](https://github.com/RalucaElisabetaR/markdown-challenge/blob/master/README.md) >>

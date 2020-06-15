@@ -1,6 +1,7 @@
 # markdown-challenge
 # Ouna Tcybdenova
-*"My mom always said life was like a box of chocolates.You never know what you're gonna get." by Forrest Gump*
+*"My mom always said life was like a box of chocolates.You never know what you're gonna get." by Forrest Gump* ![giphy](https://user-images.githubusercontent.com/66670076/84663481-8cd67a00-af1d-11ea-8740-21218aaa98e0.gif)
+
 ![Me](https://github.com/Ouna-Bilegma/markdown-challenge/blob/master/66670076.jpeg)
 
 ## Just a nomad girl

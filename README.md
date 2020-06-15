@@ -4,9 +4,8 @@
 ![Me](https://github.com/Ouna-Bilegma/markdown-challenge/blob/master/66670076.jpeg)
 ## Just a nomad girl
 Birthday | Favourite color | Favourite food | Pineapple on pizza? |
-|-|-|-|-|
-||||<ul><li> [x] Yes. </li> <li> [ ] No </li> </ul>|
- 
+------------ | ------------- | ------------ | ---------------- |
+13/07/1993 | Black | pasta | ||||<ul><li> [x] Yes. </li> <li> [ ] No </li> </ul>|
 ### Hobbies
 *Gaming, playing guitar, traveling, boardgames, drawing.*
 ### You can always count on me 

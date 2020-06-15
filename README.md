@@ -9,10 +9,14 @@ Birthday | Favourite color | Favourite food | Pineapple on pizza? |
 13/07/1993 | Black | pasta | <ul><li> [x] Yes. </li> <li> [ ] No </li> </ul>|
 
 ### Hobbies
-*Gaming  :computer: 
-Playing guitar :guitar: 
+*Gaming  :computer:
+
+Playing guitar :guitar:
+
 Traveling :earth_asia:
-Boardgames  :space_invader: 
+
+Boardgames  :space_invader:
+
 Painting  :art:*
 
 ### You can always count on me 
